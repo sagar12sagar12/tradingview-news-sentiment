@@ -1,0 +1,18 @@
+# Output files
+*.csv
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# IDE files
+.idea/
+.vscode/
+
+# System files
+.DS_Store
